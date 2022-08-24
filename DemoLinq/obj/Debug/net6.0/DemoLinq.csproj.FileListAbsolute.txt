@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\bin\Debug\net6.0\DemoLinq.exe
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\bin\Debug\net6.0\DemoLinq.deps.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\bin\Debug\net6.0\DemoLinq.runtimeconfig.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\bin\Debug\net6.0\DemoLinq.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\bin\Debug\net6.0\DemoLinq.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\obj\Debug\net6.0\DemoLinq.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\obj\Debug\net6.0\DemoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\obj\Debug\net6.0\DemoLinq.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\obj\Debug\net6.0\DemoLinq.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\obj\Debug\net6.0\DemoLinq.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\obj\Debug\net6.0\DemoLinq.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\obj\Debug\net6.0\refint\DemoLinq.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\obj\Debug\net6.0\DemoLinq.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\obj\Debug\net6.0\DemoLinq.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\DemoLinq\obj\Debug\net6.0\ref\DemoLinq.dll

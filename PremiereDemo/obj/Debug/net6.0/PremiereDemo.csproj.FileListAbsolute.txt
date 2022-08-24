@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\bin\Debug\net6.0\PremiereDemo.exe
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\bin\Debug\net6.0\PremiereDemo.deps.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\bin\Debug\net6.0\PremiereDemo.runtimeconfig.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\bin\Debug\net6.0\PremiereDemo.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\bin\Debug\net6.0\PremiereDemo.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\obj\Debug\net6.0\PremiereDemo.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\obj\Debug\net6.0\PremiereDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\obj\Debug\net6.0\PremiereDemo.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\obj\Debug\net6.0\PremiereDemo.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\obj\Debug\net6.0\PremiereDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\obj\Debug\net6.0\PremiereDemo.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\obj\Debug\net6.0\refint\PremiereDemo.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\obj\Debug\net6.0\PremiereDemo.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\obj\Debug\net6.0\PremiereDemo.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\PremiereDemo\PremiereDemo\obj\Debug\net6.0\ref\PremiereDemo.dll
