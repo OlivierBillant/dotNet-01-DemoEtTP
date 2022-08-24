@@ -8,25 +8,20 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrateur\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\obillant2022\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\Cours ASP.NET\\Démos\\PremiereDemo\\TPHeritage\\TPHeritage.csproj",
+      "projectUniqueName": "C:\\Users\\obillant2022\\Documents\\DotNet\\demos\\DotNet.Demos\\TPHeritage\\TPHeritage.csproj",
       "projectName": "TPHeritage",
-      "projectPath": "C:\\Users\\Administrateur\\Desktop\\Cours ASP.NET\\Démos\\PremiereDemo\\TPHeritage\\TPHeritage.csproj",
-      "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrateur\\Desktop\\Cours ASP.NET\\Démos\\PremiereDemo\\TPHeritage\\obj\\",
+      "projectPath": "C:\\Users\\obillant2022\\Documents\\DotNet\\demos\\DotNet.Demos\\TPHeritage\\TPHeritage.csproj",
+      "packagesPath": "C:\\Users\\obillant2022\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\obillant2022\\Documents\\DotNet\\demos\\DotNet.Demos\\TPHeritage\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Administrateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\obillant2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TPLinq.Live/1.0.0": {
+        "runtime": {
+          "TPLinq.Live.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPLinq.Live/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
