@@ -1,0 +1,12 @@
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\bin\Debug\net6.0\DemoConception.DAL.deps.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\bin\Debug\net6.0\DemoConception.DAL.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\bin\Debug\net6.0\DemoConception.DAL.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\obj\Debug\net6.0\DemoConception.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\obj\Debug\net6.0\DemoConception.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\obj\Debug\net6.0\DemoConception.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\obj\Debug\net6.0\DemoConception.DAL.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\obj\Debug\net6.0\DemoConception.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\obj\Debug\net6.0\DemoConception.DAL.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\obj\Debug\net6.0\refint\DemoConception.DAL.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\obj\Debug\net6.0\DemoConception.DAL.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.DAL\obj\Debug\net6.0\ref\DemoConception.DAL.dll

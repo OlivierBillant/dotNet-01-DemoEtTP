@@ -1,0 +1,12 @@
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\bin\Debug\net6.0\AlbumMusique.BO.deps.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\bin\Debug\net6.0\AlbumMusique.BO.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\bin\Debug\net6.0\AlbumMusique.BO.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\obj\Debug\net6.0\AlbumMusique.BO.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\obj\Debug\net6.0\AlbumMusique.BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\obj\Debug\net6.0\AlbumMusique.BO.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\obj\Debug\net6.0\AlbumMusique.BO.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\obj\Debug\net6.0\AlbumMusique.BO.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\obj\Debug\net6.0\AlbumMusique.BO.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\obj\Debug\net6.0\refint\AlbumMusique.BO.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\obj\Debug\net6.0\AlbumMusique.BO.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\AlbumMusique.BO\obj\Debug\net6.0\ref\AlbumMusique.BO.dll

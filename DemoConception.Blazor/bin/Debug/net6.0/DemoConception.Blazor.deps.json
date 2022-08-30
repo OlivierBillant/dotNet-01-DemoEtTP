@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DemoConception.Blazor/1.0.0": {
+        "dependencies": {
+          "DemoConception.Business": "1.0.0"
+        },
+        "runtime": {
+          "DemoConception.Blazor.dll": {}
+        }
+      },
+      "DemoConception.Business/1.0.0": {
+        "dependencies": {
+          "DemoConception.DAL": "1.0.0"
+        },
+        "runtime": {
+          "DemoConception.Business.dll": {}
+        }
+      },
+      "DemoConception.DAL/1.0.0": {
+        "runtime": {
+          "DemoConception.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoConception.Blazor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoConception.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoConception.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

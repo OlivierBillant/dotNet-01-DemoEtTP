@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DemoConception.Business/1.0.0": {
+        "dependencies": {
+          "DemoConception.DAL": "1.0.0"
+        },
+        "runtime": {
+          "DemoConception.Business.dll": {}
+        }
+      },
+      "DemoConception.DAL/1.0.0": {
+        "runtime": {
+          "DemoConception.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoConception.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoConception.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

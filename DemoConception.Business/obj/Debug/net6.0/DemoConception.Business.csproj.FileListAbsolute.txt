@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\bin\Debug\net6.0\DemoConception.Business.deps.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\bin\Debug\net6.0\DemoConception.Business.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\bin\Debug\net6.0\DemoConception.Business.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\bin\Debug\net6.0\DemoConception.DAL.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\bin\Debug\net6.0\DemoConception.DAL.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\obj\Debug\net6.0\DemoConception.Business.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\obj\Debug\net6.0\DemoConception.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\obj\Debug\net6.0\DemoConception.Business.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\obj\Debug\net6.0\DemoConception.Business.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\obj\Debug\net6.0\DemoConception.Business.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\obj\Debug\net6.0\DemoConception.Business.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\obj\Debug\net6.0\DemoConception.Business.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\obj\Debug\net6.0\refint\DemoConception.Business.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\obj\Debug\net6.0\DemoConception.Business.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\DemoConception.Business\obj\Debug\net6.0\ref\DemoConception.Business.dll

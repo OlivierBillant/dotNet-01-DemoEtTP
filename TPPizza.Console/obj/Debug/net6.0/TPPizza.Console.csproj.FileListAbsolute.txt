@@ -1,0 +1,5 @@
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Console\obj\Debug\net6.0\TPPizza.Console.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Console\obj\Debug\net6.0\TPPizza.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Console\obj\Debug\net6.0\TPPizza.Console.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Console\obj\Debug\net6.0\TPPizza.Console.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Console\obj\Debug\net6.0\TPPizza.Console.csproj.CoreCompileInputs.cache

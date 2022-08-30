@@ -1,0 +1,12 @@
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\bin\Debug\net6.0\TPPizza.Business.deps.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\bin\Debug\net6.0\TPPizza.Business.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\bin\Debug\net6.0\TPPizza.Business.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\obj\Debug\net6.0\TPPizza.Business.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\obj\Debug\net6.0\TPPizza.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\obj\Debug\net6.0\TPPizza.Business.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\obj\Debug\net6.0\TPPizza.Business.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\obj\Debug\net6.0\TPPizza.Business.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\obj\Debug\net6.0\TPPizza.Business.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\obj\Debug\net6.0\refint\TPPizza.Business.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\obj\Debug\net6.0\TPPizza.Business.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TPPizza.Business\obj\Debug\net6.0\ref\TPPizza.Business.dll

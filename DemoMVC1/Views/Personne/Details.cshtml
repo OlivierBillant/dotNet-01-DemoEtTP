@@ -1,0 +1,14 @@
+﻿@model DemoMVC1.Models.PersonneViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+@await this.Html.PartialAsync("_Personne", this.Model);
+
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
